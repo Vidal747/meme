@@ -1,10 +1,5 @@
 # Taller de Gramáticas – Solución Completa
 
-> **Autor:** Generado por ChatGPT · Mayo 2025
-> **Objetivo:** Resolver rigurosamente cada sección del taller universitario sobre gramáticas formales, describiendo los lenguajes generados, convirtiendo a Forma Normal de Chomsky (CNF) y evaluando propiedades de regularidad.
-
----
-
 ## Tabla de Contenidos
 
 1. [Parte 1 – Gramática inicial](#parte1)
