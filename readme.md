@@ -224,4 +224,4 @@ Lenguaje **regular** (RE `x^+ y^+`).
 
 ### 📝 Licencia
 
-Contenido libre para uso académico. Se agradece citar la referencia a ChatGPT como asistente de elaboración.
+Contenido libre para uso académico. ChatGPT como asistente de elaboración.
